@@ -50,7 +50,7 @@ $wgDBtype = "mysql";
 $wgDBserver = "localhost";
 $wgDBname = "wiki_lampart";
 $wgDBuser = "root";
-$wgDBpassword = "";
+$wgDBpassword = "lampart";
 
 # MySQL specific settings
 $wgDBprefix = "";
